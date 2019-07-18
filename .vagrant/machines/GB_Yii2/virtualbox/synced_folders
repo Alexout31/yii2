@@ -1,0 +1,1 @@
+{"virtualbox":{"/data/mysite.local/app":{"create":true,"guestpath":"/data/mysite.local/app","hostpath":"C:/yii2/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/yii2","disabled":false,"__vagrantfile":true}}}
